@@ -1,0 +1,15 @@
+/*
+Theme Name: Child Theme
+Theme URI: 
+Description: Your child theme description text...
+Author: Hipster Theme
+Author URI: http://hipsterthe.me
+Template: dreamer
+Version: 1.0
+Tags: white, light, one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, custom-header, custom-menu, custom-colors, editor-style, featured-image-header, full-width-template, post-formats, theme-options, featured-images, translation-ready
+*/
+
+/* Import the stylesheet from the parent theme */
+@import url('../dreamer/style.css');
+
+/* Now you can start adding your own styles here. Use !important to overwrite styles if needed. */
